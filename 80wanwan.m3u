@@ -1,0 +1,173 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="民視第壹" tvg-logo="https://live.fanmingming.com/tv/民視第壹.png" group-title="临时资源 仅供测试",民視第壹
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 tvg-name="民視台灣" tvg-logo="https://live.fanmingming.com/tv/民視台灣.png" group-title="临时资源 仅供测试",民視台灣
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="临时资源 仅供测试",龍華電影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-name="CMUSIC音樂" tvg-logo="https://live.fanmingming.com/tv/CMUSIC音樂.png" group-title="临时资源 仅供测试",CMUSIC音樂
+http://37.27.111.214:8080/live/72/hls.m3u8
+#EXTINF:-1 tvg-name="博斯運動1" tvg-logo="https://live.fanmingming.com/tv/博斯運動1.png" group-title="临时资源 仅供测试",博斯運動1
+http://37.27.111.214:8080/live/14/hls.m3u8
+#EXTINF:-1 tvg-name="TVBS歡樂" tvg-logo="https://live.fanmingming.com/tv/TVBS歡樂.png" group-title="临时资源 仅供测试",TVBS歡樂
+http://37.27.111.214:8080/live/24/hls.m3u8
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.com/tv/博斯高球1.png" group-title="临时资源 仅供测试",博斯高球1
+http://37.27.111.214:8080/live/13/hls.m3u8
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.com/tv/博斯网球.png" group-title="临时资源 仅供测试",博斯网球
+http://37.27.111.214:8080/live/16/hls.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="临时资源 仅供测试",東森新聞
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="亞洲旅遊" tvg-logo="https://live.fanmingming.com/tv/亞洲旅遊.png" group-title="临时资源 仅供测试",亞洲旅遊
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.com/tv/東森新聞.png" group-title="临时资源 仅供测试",東森新聞
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-name="三立" tvg-logo="https://live.fanmingming.com/tv/三立.png" group-title="临时资源 仅供测试",三立
+http://37.27.111.214:8080/live/31/hls.m3u8
+#EXTINF:-1 tvg-name="民視灣" tvg-logo="https://live.fanmingming.com/tv/民視灣.png" group-title="临时资源 仅供测试",民視灣
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 tvg-name="龍華日韓" tvg-logo="https://live.fanmingming.com/tv/龍華日韓.png" group-title="临时资源 仅供测试",龍華日韓
+http://37.27.111.214:8080/live/42/hls.m3u8
+#EXTINF:-1 tvg-name="龍華戲劇" tvg-logo="https://live.fanmingming.com/tv/龍華戲劇.png" group-title="临时资源 仅供测试",龍華戲劇
+http://37.27.111.214:8080/live/41/hls.m3u8
+#EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://live.fanmingming.com/tv/龍華電影.png" group-title="临时资源 仅供测试",龍華電影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 tvg-name="中視經典" tvg-logo="https://live.fanmingming.com/tv/中視經典.png" group-title="临时资源 仅供测试",中視經典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 tvg-name="中視青采" tvg-logo="https://live.fanmingming.com/tv/中視青采.png" group-title="临时资源 仅供测试",中視青采
+http://37.27.111.214:8080/live/48/hls.m3u8
+#EXTINF:-1 tvg-name="環宇灣" tvg-logo="https://live.fanmingming.com/tv/環宇灣.png" group-title="临时资源 仅供测试",環宇灣
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://live.fanmingming.com/tv/公視戲劇.png" group-title="临时资源 仅供测试",公視戲劇
+http://37.27.111.214:8080/live/87/hls.m3u8
+#EXTINF:-1 tvg-name="CINEMA WORLD" tvg-logo="https://live.fanmingming.com/tv/CINEMA WORLD.png" group-title="临时资源 仅供测试",CINEMA WORLD
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 tvg-name="全球財經" tvg-logo="https://live.fanmingming.com/tv/全球財經.png" group-title="临时资源 仅供测试",全球財經
+http://37.27.111.214:8080/live/64/hls.m3u8
+#EXTINF:-1 tvg-name="華視新聞" tvg-logo="https://live.fanmingming.com/tv/華視新聞.png" group-title="临时资源 仅供测试",華視新聞
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 tvg-name="互動英語" tvg-logo="https://live.fanmingming.com/tv/互動英語.png" group-title="临时资源 仅供测试",互動英語
+http://37.27.111.214:8080/live/54/hls.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.com/tv/Nickelodeon.png" group-title="临时资源 仅供测试",Nickelodeon
+http://37.27.111.214:8080/live/12/hls.m3u8
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://live.fanmingming.com/tv/CinemaWorld.png" group-title="临时资源 仅供测试",CinemaWorld
+http://37.27.111.214:8080/live/30/hls.m3u8
+#EXTINF:-1 tvg-name="LOVE NATURE" tvg-logo="https://live.fanmingming.com/tv/LOVE NATURE.png" group-title="临时资源 仅供测试",LOVE NATURE
+http://37.27.111.214:8080/live/84/hls.m3u8
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://live.fanmingming.com/tv/ROCK ACTION.png" group-title="临时资源 仅供测试",ROCK ACTION
+http://37.27.111.214:8080/live/94/hls.m3u8
+#EXTINF:-1 tvg-name="TECH STORM" tvg-logo="https://live.fanmingming.com/tv/TECH STORM.png" group-title="临时资源 仅供测试",TECH STORM
+http://37.27.111.214:8080/live/80/hls.m3u8
+#EXTINF:-1 tvg-name="劇3" tvg-logo="https://live.fanmingming.com/tv/劇3.png" group-title="临时资源 仅供测试",劇3
+http://37.27.111.214:8080/live/111/hls.m3u8
+#EXTINF:-1 tvg-name="哆啦A夢" tvg-logo="https://live.fanmingming.com/tv/哆啦A夢.png" group-title="临时资源 仅供测试",哆啦A夢
+http://37.27.111.214:8080/live/107/hls.m3u8
+#EXTINF:-1 tvg-name="劇2" tvg-logo="https://live.fanmingming.com/tv/劇2.png" group-title="临时资源 仅供测试",劇2
+http://37.27.111.214:8080/live/109/hls.m3u8
+#EXTINF:-1 tvg-name="鏡新聞" tvg-logo="https://live.fanmingming.com/tv/鏡新聞.png" group-title="临时资源 仅供测试",鏡新聞
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG" tvg-logo="https://live.fanmingming.com/tv/BLOOMBERG.png" group-title="临时资源 仅供测试",BLOOMBERG
+http://37.27.111.214:8080/live/34/hls.m3u8
+#EXTINF:-1 tvg-name="豬哥亮" tvg-logo="https://live.fanmingming.com/tv/豬哥亮.png" group-title="临时资源 仅供测试",豬哥亮
+http://37.27.111.214:8080/live/35/hls.m3u8
+#EXTINF:-1 tvg-name="劇" tvg-logo="https://live.fanmingming.com/tv/劇.png" group-title="临时资源 仅供测试",劇
+http://37.27.111.214:8080/live/108/hls.m3u8
+#EXTINF:-1 tvg-name="探案" tvg-logo="https://live.fanmingming.com/tv/探案.png" group-title="临时资源 仅供测试",探案
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 tvg-name="DW NEWS" tvg-logo="https://live.fanmingming.com/tv/DW NEWS.png" group-title="临时资源 仅供测试",DW NEWS
+http://37.27.111.214:8080/live/46/hls.m3u8
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://live.fanmingming.com/tv/HISTORY.png" group-title="临时资源 仅供测试",HISTORY
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 tvg-name="hokkotv" tvg-logo="https://live.fanmingming.com/tv/hokkotv.png" group-title="临时资源 仅供测试",hokkotv
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 tvg-name="電影" tvg-logo="https://live.fanmingming.com/tv/電影.png" group-title="临时资源 仅供测试",電影
+http://37.27.111.214:8080/live/11/hls.m3u8
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.com/tv/民視.png" group-title="临时资源 仅供测试",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="临时资源 仅供测试",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.com/tv/華視.png" group-title="临时资源 仅供测试",華視
+http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 tvg-name="影迷" tvg-logo="https://live.fanmingming.com/tv/影迷.png" group-title="临时资源 仅供测试",影迷
+http://37.27.111.214:8080/live/92/hls.m3u8
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://live.fanmingming.com/tv/中視.png" group-title="临时资源 仅供测试",中視
+http://37.27.111.214:8080/live/7/hls.m3u8
+#EXTINF:-1 tvg-name="超人" tvg-logo="https://live.fanmingming.com/tv/超人.png" group-title="临时资源 仅供测试",超人
+http://37.27.111.214:8080/live/110/hls.m3u8
+#EXTINF:-1 tvg-name="綜藝" tvg-logo="https://live.fanmingming.com/tv/綜藝.png" group-title="临时资源 仅供测试",綜藝
+http://37.27.111.214:8080/live/67/hls.m3u8
+#EXTINF:-1 tvg-name="影劇" tvg-logo="https://live.fanmingming.com/tv/影劇.png" group-title="临时资源 仅供测试",影劇
+http://37.27.111.214:8080/live/88/hls.m3u8
+#EXTINF:-1 tvg-name="旅遊" tvg-logo="https://live.fanmingming.com/tv/旅遊.png" group-title="临时资源 仅供测试",旅遊
+http://37.27.111.214:8080/live/82/hls.m3u8
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://live.fanmingming.com/tv/民視.png" group-title="临时资源 仅供测试",民視
+http://37.27.111.214:8080/live/6/hls.m3u8
+#EXTINF:-1 tvg-name="KOREA" tvg-logo="https://live.fanmingming.com/tv/KOREA.png" group-title="临时资源 仅供测试",KOREA
+http://37.27.111.214:8080/live/52/hls.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="临时资源 仅供测试",TVBS
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1 tvg-name="ROCK" tvg-logo="https://live.fanmingming.com/tv/ROCK.png" group-title="临时资源 仅供测试",ROCK
+http://37.27.111.214:8080/live/70/hls.m3u8
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://live.fanmingming.com/tv/HITS.png" group-title="临时资源 仅供测试",HITS
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="临时资源 仅供测试",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 tvg-name="momo" tvg-logo="https://live.fanmingming.com/tv/momo.png" group-title="临时资源 仅供测试",momo
+http://37.27.111.214:8080/live/3/hls.m3u8
+#EXTINF:-1 tvg-name="LUXE" tvg-logo="https://live.fanmingming.com/tv/LUXE.png" group-title="临时资源 仅供测试",LUXE
+http://37.27.111.214:8080/live/86/hls.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.com/tv/MTV.png" group-title="临时资源 仅供测试",MTV
+http://37.27.111.214:8080/live/25/hls.m3u8
+#EXTINF:-1 tvg-name="MCE" tvg-logo="https://live.fanmingming.com/tv/MCE.png" group-title="临时资源 仅供测试",MCE
+http://37.27.111.214:8080/live/98/hls.m3u8
+#EXTINF:-1 tvg-name="VOA" tvg-logo="https://live.fanmingming.com/tv/VOA.png" group-title="临时资源 仅供测试",VOA
+http://37.27.111.214:8080/live/45/hls.m3u8
+#EXTINF:-1 tvg-name="elta生活旅遊" tvg-logo="https://live.fanmingming.com/tv/elta生活旅遊.png" group-title="临时资源 仅供测试",elta生活旅遊
+http://37.27.111.214:8080/live/85/hls.m3u8
+#EXTINF:-1 tvg-name="亞洲旅遊" tvg-logo="https://live.fanmingming.com/tv/亞洲旅遊.png" group-title="临时资源 仅供测试",亞洲旅遊
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 tvg-name="靖洋戲居" tvg-logo="https://live.fanmingming.com/tv/靖洋戲居.png" group-title="临时资源 仅供测试",靖洋戲居
+http://37.27.111.214:8080/live/17/hls.m3u8
+#EXTINF:-1 tvg-name="靖天電影" tvg-logo="https://live.fanmingming.com/tv/靖天電影.png" group-title="临时资源 仅供测试",靖天電影
+http://37.27.111.214:8080/live/18/hls.m3u8
+#EXTINF:-1 tvg-name="環宇財經" tvg-logo="https://live.fanmingming.com/tv/環宇財經.png" group-title="临时资源 仅供测试",環宇財經
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:-1 tvg-name="智林體育" tvg-logo="https://live.fanmingming.com/tv/智林體育.png" group-title="临时资源 仅供测试",智林體育
+http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 tvg-name="東森購物" tvg-logo="https://live.fanmingming.com/tv/東森購物.png" group-title="临时资源 仅供测试",東森購物
+http://37.27.111.214:8080/live/66/hls.m3u8
+#EXTINF:-1 tvg-name="人間衛視" tvg-logo="https://live.fanmingming.com/tv/人間衛視.png" group-title="临时资源 仅供测试",人間衛視
+http://37.27.111.214:8080/live/101/hls.m3u8
+#EXTINF:-1 tvg-name="八大綜合" tvg-logo="https://live.fanmingming.com/tv/八大綜合.png" group-title="临时资源 仅供测试",八大綜合
+http://37.27.111.214:8080/live/21/hls.m3u8
+#EXTINF:-1 tvg-name="幸福空間" tvg-logo="https://live.fanmingming.com/tv/幸福空間.png" group-title="临时资源 仅供测试",幸福空間
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-name="東森購物" tvg-logo="https://live.fanmingming.com/tv/東森購物.png" group-title="临时资源 仅供测试",東森購物
+http://37.27.111.214:8080/live/61/hls.m3u8
+#EXTINF:-1 tvg-name="博斯無限" tvg-logo="https://live.fanmingming.com/tv/博斯無限.png" group-title="临时资源 仅供测试",博斯無限
+http://37.27.111.214:8080/live/15/hls.m3u8
+#EXTINF:-1 tvg-name="LIFE TIME" tvg-logo="https://live.fanmingming.com/tv/LIFE TIME.png" group-title="临时资源 仅供测试",LIFE TIME
+http://37.27.111.214:8080/live/71/hls.m3u8
+#EXTINF:-1 tvg-name="動畫" tvg-logo="https://live.fanmingming.com/tv/動畫.png" group-title="临时资源 仅供测试",動畫
+http://37.27.111.214:8080/live/57/hls.m3u8
+#EXTINF:-1 tvg-name="TV5 MONDE" tvg-logo="https://live.fanmingming.com/tv/TV5 MONDE.png" group-title="临时资源 仅供测试",TV5 MONDE
+http://37.27.111.214:8080/live/9/hls.m3u8
+#EXTINF:-1 tvg-name="PET CLUB" tvg-logo="https://live.fanmingming.com/tv/PET CLUB.png" group-title="临时资源 仅供测试",PET CLUB
+http://37.27.111.214:8080/live/81/hls.m3u8
+#EXTINF:-1 tvg-name="FESTIVAL" tvg-logo="https://live.fanmingming.com/tv/FESTIVAL.png" group-title="临时资源 仅供测试",FESTIVAL
+http://37.27.111.214:8080/live/83/hls.m3u8
+#EXTINF:-1 tvg-name="動漫2" tvg-logo="https://live.fanmingming.com/tv/動漫2.png" group-title="临时资源 仅供测试",動漫2
+http://37.27.111.214:8080/live/106/hls.m3u8
+#EXTINF:-1 tvg-name="HakkaTV" tvg-logo="https://live.fanmingming.com/tv/HakkaTV.png" group-title="临时资源 仅供测试",HakkaTV
+http://37.27.111.214:8080/live/1/hls.m3u8
+#EXTINF:-1 tvg-name="動漫" tvg-logo="https://live.fanmingming.com/tv/動漫.png" group-title="临时资源 仅供测试",動漫
+http://37.27.111.214:8080/live/105/hls.m3u8
+#EXTINF:-1 tvg-name="nickjr" tvg-logo="https://live.fanmingming.com/tv/nickjr.png" group-title="临时资源 仅供测试",nickjr
+http://37.27.111.214:8080/live/22/hls.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.com/tv/CNBC.png" group-title="临时资源 仅供测试",CNBC
+http://37.27.111.214:8080/live/102/hls.m3u8
+#EXTINF:-1 tvg-name="居家" tvg-logo="https://live.fanmingming.com/tv/居家.png" group-title="临时资源 仅供测试",居家
+http://37.27.111.214:8080/live/26/hls.m3u8
+#EXTINF:-1 tvg-name="GOOD2" tvg-logo="https://live.fanmingming.com/tv/GOOD2.png" group-title="临时资源 仅供测试",GOOD2
+http://37.27.111.214:8080/live/99/hls.m3u8
+#EXTINF:-1 tvg-name="TiTV" tvg-logo="https://live.fanmingming.com/tv/TiTV.png" group-title="临时资源 仅供测试",TiTV
+http://37.27.111.214:8080/live/2/hls.m3u8
